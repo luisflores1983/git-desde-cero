@@ -1,6 +1,10 @@
 # Git desde cero en EDteam
 
-[Detalles del curso en EDteam](https://ed.team/git)
+## Recursos de git
+
+[Curso en EDteam](https://ed.team/git)
+
+Descarga Git del sitio oficial: https://git-scm.com/downloads
 
 ## Personas aprendiendo sobre Git
 
