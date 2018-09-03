@@ -9,3 +9,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 ## Personas aprendiendo sobre Git
 
 - Guillermo Romero: https://github.com/adsiar
+- César Díez: https://github.com/cesardieznet
