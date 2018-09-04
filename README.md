@@ -10,3 +10,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 
 - Guillermo Romero: https://github.com/adsiar
 - César Díez: https://github.com/cesardieznet
+- Miguel Guevara: https://github.com/devMiguelGuevara
