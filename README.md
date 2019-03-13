@@ -15,3 +15,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Chavita Rocha https://github.com/chavita1386
 - kevin León https://github.com/Kevinoleon
 - Juani Brex https://github.com/juanibrex
+- Omar Lara https://github.com/olara1989
