@@ -21,3 +21,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Omar Lara https://github.com/olara1989
 - Miguel Oceguera https://github.com/MiguelOcegueraM
 - Roberto Méndez https://github.com/BetoCR16
+- Juan Carlos Ajahuana https://github.com/ajahuanex
