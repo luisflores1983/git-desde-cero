@@ -22,5 +22,5 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Miguel Oceguera https://github.com/MiguelOcegueraM
 - Roberto Méndez https://github.com/BetoCR16
 - Sebastian Roa Meneses https://github.com/serome111
-- Juan Carlos Ajahuana https://github.com/ajahuanelx
+- Juan Carlos Ajahuana https://github.com/ajahuanex
 - Adrian David Gomez https://github.com/adriangez
