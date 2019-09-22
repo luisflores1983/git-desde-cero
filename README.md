@@ -25,3 +25,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Juan Carlos Ajahuana https://github.com/ajahuanex
 - Gerardo Reinoso https://github.com/EPECgreinoso
 - Jorge Diaz https://github.com/jidiazm
+- Adrian Gomez https://github.com/adriangez
