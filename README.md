@@ -23,6 +23,10 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Roberto Méndez https://github.com/BetoCR16
 - Sebastian Roa Meneses https://github.com/serome111
 - Juan Carlos Ajahuana https://github.com/ajahuanex
+<<<<<<< HEAD
 - Gerardo Reinoso https://github.com/EPECgreinoso
 - Jorge Diaz https://github.com/jidiazm
 - Adrian Gomez https://github.com/adriangez
+=======
+- Leandro Gom https://github.com/LeandroBu 
+>>>>>>> d4b15a14cf17e43fc152134945fe37fe840c8501
