@@ -30,3 +30,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Alberto Pimentel https://github.com/AlbertoPimentel04
 - Ariel Ferro https://github.com/ferroariel
 - Dany Pascual Gómez Sánchez https://github.com/pascualdas
+- Rafael Salazar https://github.com/rafalazar
