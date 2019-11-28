@@ -4,8 +4,8 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 
 ## Recursos de Git y GitHub
 
-- [Curso en EDteam](https://ed.team/cursos/git)
 - [Curso en Platzi](https://platzi.com/cursos/git-github/)
+- [Curso en EDteam](https://ed.team/cursos/git)
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
 
 ## Personas aprendiendo sobre Git
@@ -27,4 +27,5 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Jorge Diaz https://github.com/jidiazm
 - Adrian Gomez https://github.com/adriangez
 - Leandro Gom https://github.com/LeandroBu
+- Ariel Ferro https://github.com/ferroariel
 - Dany Pascual Gómez Sánchez https://github.com/pascualdas
