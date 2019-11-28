@@ -27,5 +27,6 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Jorge Diaz https://github.com/jidiazm
 - Adrian Gomez https://github.com/adriangez
 - Leandro Gom https://github.com/LeandroBu
+- Alberto Pimentel https://github.com/AlbertoPimentel04
 - Ariel Ferro https://github.com/ferroariel
 - Dany Pascual Gómez Sánchez https://github.com/pascualdas
