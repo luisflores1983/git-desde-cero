@@ -31,3 +31,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Ariel Ferro https://github.com/ferroariel
 - Dany Pascual Gómez Sánchez https://github.com/pascualdas
 - Rafael Salazar https://github.com/rafalazar
+- Andres Parra Garzón https://github.com/AndresParraGO
