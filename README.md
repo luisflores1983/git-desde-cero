@@ -10,10 +10,10 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 
 ## Personas aprendiendo sobre Git
 
-- Guillermo Romero: https://github.com/adsiar
-- Elifio Roldan: https://github.com/elifioroldan
-- César Díez: https://github.com/cesardieznet
-- Miguel Guevara: https://github.com/devMiguelGuevara
+- Guillermo Romero https://github.com/adsiar
+- Elifio Roldan https://github.com/elifioroldan
+- César Díez https://github.com/cesardieznet
+- Miguel Guevara https://github.com/devMiguelGuevara
 - Jefferson Esquea https://github.com/jjesquea
 - Chavita Rocha https://github.com/chavita1386
 - kevin León https://github.com/Kevinoleon
@@ -32,3 +32,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Dany Pascual Gómez Sánchez https://github.com/pascualdas
 - Rafael Salazar https://github.com/rafalazar
 - Andres Parra Garzón https://github.com/AndresParraGO
+- Enzo Olórtegui https://github.com/Proudmoore23
