@@ -33,3 +33,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Rafael Salazar https://github.com/rafalazar
 - Andres Parra Garzón https://github.com/AndresParraGO
 - Enzo Olórtegui https://github.com/Proudmoore23
+- Ivan Tabera https://github.com/ivantabera
