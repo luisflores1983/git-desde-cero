@@ -7,6 +7,7 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - [Curso en Platzi](https://platzi.com/cursos/git-github/)
 - [Curso en EDteam](https://ed.team/cursos/git)
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
+- [Curso de DevCode](https://devcode.la/cursos/git/)
 
 ## Personas aprendiendo sobre Git
 
