@@ -1,6 +1,9 @@
 # Git desde cero
 
+Repositorio del [curso gratuito de Git](https://www.youtube.com/playlist?list=PLmUnyBCRHkvUPkrsseI1SmMtYgfc-f8Kn) de [Daniel Romero](https://www.youtube.com/user/danielromeroauk?sub_confirmation=1) en su canal del YouTube.
+
 Descarga Git del sitio oficial: https://git-scm.com/downloads
+
 
 ## Recursos de Git y GitHub
 
@@ -8,6 +11,7 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - [Curso en EDteam](https://ed.team/cursos/git)
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
 - [Curso de DevCode](https://devcode.la/cursos/git/)
+
 
 ## Personas aprendiendo sobre Git
 
@@ -39,3 +43,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Raul Martinez https://github.com/rmartinezcu
 - Gonzalo Gutierrez https://github.com/gonguty1987
 - Raúl Rodríguez Díaz https://github.com/raul-rd
+- Andri Bonilla https://github.com/AndriBG
