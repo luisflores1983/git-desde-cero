@@ -1,6 +1,6 @@
 # Git desde cero
 
-Repositorio del [curso gratuito de Git](https://www.youtube.com/playlist?list=PLmUnyBCRHkvUPkrsseI1SmMtYgfc-f8Kn) de [Daniel Romero](https://www.youtube.com/user/danielromeroauk?sub_confirmation=1) en su canal del YouTube.
+Repositorio del [curso gratuito de Git](https://www.youtube.com/playlist?list=PLmUnyBCRHkvUPkrsseI1SmMtYgfc-f8Kn) de Daniel Romero en su [canal del YouTube](https://www.youtube.com/user/danielromeroauk?sub_confirmation=1).
 
 Descarga Git del sitio oficial: https://git-scm.com/downloads
 
