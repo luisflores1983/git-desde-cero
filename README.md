@@ -44,3 +44,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Gonzalo Gutierrez https://github.com/gonguty1987
 - Raúl Rodríguez Díaz https://github.com/raul-rd
 - Andri Bonilla https://github.com/AndriBG
+- Jeasika López https://github.com/jeasika
