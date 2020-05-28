@@ -46,3 +46,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Andri Bonilla https://github.com/AndriBG
 - Jeasika López https://github.com/jeasika
 - Andrik Martínez https://github.com/Andrik-Ts-019
+- santiago kazlauskas https://github.com/santiagokazlauskas12
