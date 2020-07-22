@@ -46,8 +46,9 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Andri Bonilla https://github.com/AndriBG
 - Jeasika López https://github.com/jeasika
 - Andrik Martínez https://github.com/Andrik-Ts-019
-- santiago kazlauskas https://github.com/santiagokazlauskas12
+- Santiago Kazlauskas https://github.com/santiagokazlauskas12
 - Reyes Axel https://github.com/axlgoze
 - Elizabeth H: https://github.com/VannaNotGianna
 - Juan Pablo Sala https://github.com/juanpablosala
 - Gabriel Rodriguez Ubiera https://github.com/gabrielroubiera
+- Rodrigo Rebolledo https://github.com/rodrigorebolledo
