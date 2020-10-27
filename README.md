@@ -54,3 +54,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Rodrigo Rebolledo https://github.com/rodrigorebolledo
 - Noelia Rodríguez https://github.com/noeunla
 - Cesar Alvarez https://github.com/Cesar98
+- Brayan Moreno https://github.com/YoooBrayan
